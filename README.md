@@ -1,4 +1,4 @@
-# project-3
+# Cinegraph
 
 ## Description
 
@@ -17,7 +17,7 @@ The website is deployed on [Heroku](https://movie-data-model.herokuapp.com/)
 -   [Jason Xie](https://github.com/jasonluxie)
 
 ## Demonstration
-![Gif shoiwing login and adding movie to chart](./client/src/assets/project-3-demo.gif)
+![Gif showing login and adding movie to chart](./client/src/assets/project-3-demo.gif)
 
 ### API
 
